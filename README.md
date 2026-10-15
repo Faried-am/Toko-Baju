@@ -208,6 +208,15 @@ app/Console/Commands/        Command pengiriman otomatis dan pelepasan stok
 resources/views/             Tampilan Blade (shop, checkout, admin, auth, layouts)
 routes/web.php               Semua route aplikasi
 ```
+## Screenshot
+
+| Toko | Checkout |
+|------|----------|
+| <img src="docs/toko.png" width="400"> | <img src="docs/checkout.png" width="400"> |
+
+| Dashboard Admin | Laporan |
+|-----------------|---------|
+| <img src="docs/admin-dashboard.png" width="400"> | <img src="docs/laporan.png" width="400"> |
 
 ## Lisensi
 
